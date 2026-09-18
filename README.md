@@ -6,8 +6,9 @@ Welcome! This repository serves as a centralized hub for my technical writing an
 
 Explore the `docs/` folder to view live markdown examples reflecting real-world engineering documentation pipelines:
 
-*   **[Technical Document Compliance & Quality Review Playbook](docs/compliance%20review%20playbook.md):** A structured framework outlining Pink/Red/Blue team review processes, gap analysis methodologies, and editorial tracking checklists.
-*   **[Style Guide & Evaluation Rubric for AI-Assisted Documentation](docs/ai%20style%20guide%20rubric.md):** A detailed, rubric-driven style guide engineered for auditing, evaluating, and constraining LLM output for developer documentation sets.
+*   **[Technical Document Compliance & Quality Review Playbook](docs/compliance-review-playbook.md):** A structured framework outlining Pink/Red/Blue team review processes, gap analysis methodologies, and editorial tracking checklists.
+*   **[Style Guide & Evaluation Rubric for AI-Assisted Documentation](docs/ai-style-guide-rubric.md):** A detailed, rubric-driven style guide engineered for auditing, evaluating, and constraining LLM output for developer documentation sets.
+
 
 ##  Core Skills & Tooling
 *   **Documentation Disciplines:** System Overviews, SOPs, QA Checklists, Release Notes, Gap Analysis, Structural Editing.
